@@ -22,11 +22,9 @@ The first directory found also has a subdirectory attached to it navigating to t
 
 Adding this to a text file for future use.
 
-The second directory hosts a webpage with a YouTube URL however viewing the source code I find something interesting:
-
-<img width="382" alt="image" src="https://github.com/Ethical-Dyl/arrow-verse/assets/66540055/a3c661b4-a84e-412f-8029-cce038435628">
-
+The second directory hosts a webpage with a YouTube URL however viewing the source code I find something interesting!
 Adding the extension found to my dirbuster scan I find the following:
+<img width="382" alt="image" src="https://github.com/Ethical-Dyl/arrow-verse/assets/66540055/a3c661b4-a84e-412f-8029-cce038435628">
 
 <img width="387" alt="image" src="https://github.com/Ethical-Dyl/arrow-verse/assets/66540055/4636c17d-bd04-4c1b-b8d1-463f5e7fa7e9">
 
@@ -45,9 +43,6 @@ After attempting the found texts in ftp & ssh I get a successful connection usin
 
 
 <img width="598" alt="image" src="https://github.com/Ethical-Dyl/arrow-verse/assets/66540055/d6e315ff-2d24-43d1-aa9d-830a45fef601">
-
-
-<img width="598" alt="image" src="https://github.com/Ethical-Dyl/arrow-verse/assets/66540055/d020b926-c393-4962-a674-ca799099fc0b">
 
 Grabbing all the files I will see where else I have access in the system with ftp:
 
